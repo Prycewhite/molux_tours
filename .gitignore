@@ -18,3 +18,4 @@ dist/
 
 # OS files
 .DS_Store
+react/viaje/node_modules/public-encrypt/test/test_rsa_privkey.pem
